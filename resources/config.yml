@@ -1,0 +1,12 @@
+note-name: "§aBank Note"
+note-lore:
+  - "§7Withdrawn by: §e{player}"
+  - "§7Value: §a${amount}"
+  - "§7Right-click to redeem"
+
+messages:
+  usage: "§cUsage: /withdrawl <amount>"
+  not-enough: "§cYou don't have enough money."
+  invalid: "§cEnter a valid amount."
+  withdraw-success: "§aYou withdrew ${amount} into a bank note."
+  redeem: "§aYou redeemed a bank note worth ${amount}."
