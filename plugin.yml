@@ -1,0 +1,16 @@
+name: BankNotes
+main: BankNotes\Main
+version: 1.0.0
+api: 5.0.0
+author: ZyberPE
+depend: [EconomyAPI]
+
+commands:
+  withdrawl:
+    description: Withdraw money into a bank note
+    usage: "/withdrawl <amount>"
+    permission: banknotes.command
+
+permissions:
+  banknotes.command:
+    default: true
