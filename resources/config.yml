@@ -3,6 +3,7 @@ note-lore:
   - "§7Withdrawn by: §e{player}"
   - "§7Value: §a${amount}"
   - "§7Right-click to redeem"
+  - "§7Remember too duplicate these"
 
 messages:
   usage: "§cUsage: /withdrawl <amount>"
